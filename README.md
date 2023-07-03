@@ -14,7 +14,7 @@ A springboot based project that provides and easy to use web application which e
 - MVC Architecture
 - Thymeleaf templating
 - JPA
-- H2 inmemory database
+- MySQL Database
 - CRUD operations
 
 ### Requirements
